@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Olga Shely](https://up.htmlacademy.ru/javascript/9/user/16113).
-* Наставник: `Неизвестно`.
+* Наставник: `Борис Ванюшин`.
 
 ---
 
